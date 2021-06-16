@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidTrack</string>
+    <string name="covid_title">COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtsize0">14sp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="cardwidth">170sp</dimen>
+    <dimen name="cardwidth2">340</dimen>
+</resources>
