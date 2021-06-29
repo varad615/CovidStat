@@ -15,6 +15,8 @@ Get covid cases from india
 ## API
 - https://corona.lmao.ninja
 
-## Screenshot
+## Snapshot
 
+- Simple UI
 
+![Screenshot 1](https://user-images.githubusercontent.com/30592638/123838699-e5f72d00-d929-11eb-9681-84b124d6d2bf.png)
