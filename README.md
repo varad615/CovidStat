@@ -3,7 +3,7 @@ Get covid cases from india
 
 ## Features
 
-- Active Caese
+- Active Cases
 - Confirm Cases and Today Confirm
 - Recovered Cases and Today Recovered
 - Death and Today Death
